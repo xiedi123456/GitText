@@ -8,5 +8,8 @@ public class Git {
     public void version()
     {
         System.out.println("感谢观看");
+       int i=0;
+        i=i+1;
+        System.out.println("hello")
     }
         }
