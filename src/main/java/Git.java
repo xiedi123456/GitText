@@ -12,5 +12,6 @@ public class Git {
         i=i+1;
         System.out.println("hello");
         System.out.println("中文符号的修改");
+        System.out.println(“测试Fetch”）；
     }
         }
