@@ -10,6 +10,7 @@ public class Git {
         System.out.println("感谢观看");
        int i=0;
         i=i+1;
-        System.out.println("hello")
+        System.out.println("hello");
+        System.out.println("中文符号的修改");
     }
         }
