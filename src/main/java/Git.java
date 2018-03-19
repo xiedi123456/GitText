@@ -6,16 +6,9 @@ package main.java;
 public class Git {
     public static void main(String[] args) {
         System.out.println("dffd");
-        version();
+        test();
     }
-    public static void version()
-    {
-        System.out.println("感谢观看");
-       int i=0;
-        i=i+1;
-        System.out.println("hello------");
-        System.out.println("中文符号的修改");
+    public static void test(){
 
-                                   System.out.println("dsadasdasdsad");
     }
         }
