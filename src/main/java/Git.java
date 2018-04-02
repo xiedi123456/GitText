@@ -8,7 +8,7 @@ public class Git {
         test();
     }
     public static void test(){
-System.out.println("post");
+        System.out.println("post");
         System.out.println("GitText");
     }
-        }
+}
